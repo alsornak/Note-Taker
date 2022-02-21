@@ -24,12 +24,9 @@ An application to write and save note with Express.js back end and will save and
 
 
 ## Screenshots
-<p> Get Started </p>
-![](public/assets/img/Note-Taker.png)
-<p> Adding Notes </p>
-![](public/assets/img/Note-Title.png)
-<p> saving the Notes </p>
-![](public/assets/img/Notes.png)
+![Get Started](public/assets/img/Note-Taker.png)
+![Adding Notes](public/assets/img/Note-Title.png)
+![saving the Notes](public/assets/img/Notes.png)
 
 
 ## Technologies Use

@@ -3,7 +3,7 @@ An application to write and save note with Express.js back end and will save and
 
 ### Github : https://github.com/alsornak/Note-Taker
 
-### Deployed app : <a href="https://pure-anchorage-33232.herokuapp.com/">Heroku Link</a>
+### Deployed app : <a href="https://pure-anchorage-33232.herokuapp.com/" target="_blank">Heroku Link</a>
 
 
 ## Description

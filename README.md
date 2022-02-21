@@ -3,7 +3,7 @@ An application to write and save note with Express.js back end and will save and
 
 ### Github : https://github.com/alsornak/Note-Taker
 
-### Deployed app : https://pure-anchorage-33232.herokuapp.com/
+### Deployed app : <a href="https://pure-anchorage-33232.herokuapp.com/">Heroku Link</a>
 
 
 ## Description
@@ -24,9 +24,9 @@ An application to write and save note with Express.js back end and will save and
 
 
 ## Screenshots
-![](public/assets/img/NoteTaker_LP.png)
-![](public/assets/img/NoteTaker_WriteNotes.png)
-![](public/assets/img/NoteTaker_SavedNotes.png)
+![](public/assets/img/Note-Taker.png)
+![](public/assets/img/Note-Title.png)
+![](public/assets/img/Notes.png)
 
 
 ## Technologies Use
@@ -34,7 +34,6 @@ An application to write and save note with Express.js back end and will save and
 <p><a href="https://www.npmjs.com/">NPM</a></p>
 <p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
 <p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
-<p><a href="https://www.npmjs.com/package/uuid">uuid</a></p>
 <p><a href="https://getbootstrap.com/">Bootstrap</a></p>
 <p><a href="https://fonts.google.com/">Google Fonts</a></p>
 

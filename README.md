@@ -25,13 +25,13 @@ An application to write and save note with Express.js back end and will save and
 
 ## Screenshots
 
-### Get Started
+### Get Started:
 ![](public/assets/img/Note-Taker.png)
 
-### Adding Notes
+### Adding Notes:
 ![](public/assets/img/Note-Title.png)
 
-### saving the Notes
+### Saving the Notes:
 ![](public/assets/img/Notes.png)
 
 
@@ -44,6 +44,6 @@ An application to write and save note with Express.js back end and will save and
 <p><a href="https://fonts.google.com/">Google Fonts</a></p>
 
 
-## Contributor:
+## Contributor
 Sorna Kesavan ©2022 All Rights Reserved.
 - - -

@@ -3,7 +3,7 @@ An application to write and save note with Express.js back end and will save and
 
 ### Github : https://github.com/alsornak/Note-Taker
 
-### Deployed app : <a href="https://pure-anchorage-33232.herokuapp.com/" target = "_blank">Heroku Link</a>
+### Deployed app : <a href="https://pure-anchorage-33232.herokuapp.com/">Heroku Link</a>
 
 
 ## Description
@@ -36,12 +36,12 @@ An application to write and save note with Express.js back end and will save and
 
 
 ## Technologies Use
-<p><a href="https://nodejs.org/" target = "_blank">Node.js</a></p>
-<p><a href="https://www.npmjs.com/" target = "_blank">NPM</a></p>
-<p><a href="https://www.npmjs.com/package/express" target = "_blank">Express.js</a></p>
-<p><a href="https://www.npmjs.com/package/inquirer" target = "_blank">Inquirer.js</a></p>
-<p><a href="https://getbootstrap.com/" target = "_blank">Bootstrap</a></p>
-<p><a href="https://fonts.google.com/" target = "_blank">Google Fonts</a></p>
+<p><a href="https://nodejs.org/">Node.js</a></p>
+<p><a href="https://www.npmjs.com/">NPM</a></p>
+<p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
+<p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
+<p><a href="https://getbootstrap.com/">Bootstrap</a></p>
+<p><a href="https://fonts.google.com/">Google Fonts</a></p>
 
 
 ## Contributor
